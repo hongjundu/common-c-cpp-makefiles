@@ -1,6 +1,6 @@
 # common make files for building C/C++ projects
 
-## define compiler
+## define compiler in make file
 
 * C project
     
