@@ -1,4 +1,4 @@
-# common make files for C/C++ projects
+# common make files for building C/C++ projects
 
 ## define compiler
 
